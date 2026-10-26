@@ -15,6 +15,8 @@
 
 <p align="center"><b><a href="https://www.hiimhal.com">Get the full version at hiimhal.com</a></b></p>
 
+<p align="center">Questions, or want to share your songs? <a href="https://github.com/HiImHal/one-click-local-ai/discussions">Join the Discussions</a></p>
+
 ---
 
 ## What it is
